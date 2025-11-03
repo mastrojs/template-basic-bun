@@ -3,7 +3,8 @@
   "type": "module",
   "scripts": {
     "start": "bun --watch server.ts",
-    "generate": "bun node_modules/@mastrojs/mastro/src/generator.js"
+    "generate": "bun node_modules/@mastrojs/mastro/src/generator.js",
+    "check": "tsc"
   },
   "dependencies": {
     "@mastrojs/mastro": "npm:@jsr/mastrojs__mastro",
