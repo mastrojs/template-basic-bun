@@ -24,9 +24,7 @@ To generate the whole static site (this will create a `generated` folder):
 
 To see how Mastro works, [follow the guide](https://mastrojs.github.io/guide/server-side-components-and-routing/).
 
-To make sure you're on the latest Mastro version:
-
-    bun update @jsr/mastrojs__mastro --latest
+To make sure you're on the latest Mastro version, update your `package.json` (and possibly delete your `bun.lock` file).
 
 
 ## Deploy to production
