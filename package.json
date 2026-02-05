@@ -7,8 +7,7 @@
     "check": "tsc"
   },
   "dependencies": {
-    "@mastrojs/mastro": "npm:@jsr/mastrojs__mastro",
-    "urlpattern-polyfill": "^10.1.0"
+    "@mastrojs/mastro": "npm:@jsr/mastrojs__mastro"
   },
   "devDependencies": {
     "@types/bun": "latest"
